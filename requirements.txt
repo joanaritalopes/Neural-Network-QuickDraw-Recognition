@@ -1,0 +1,13 @@
+setuptools
+pytest
+openml
+scikit-learn
+tqdm
+jupyterlab
+matplotlib
+ipywidgets
+seaborn
+torch
+torchvision
+ipycanvas
+dotenv

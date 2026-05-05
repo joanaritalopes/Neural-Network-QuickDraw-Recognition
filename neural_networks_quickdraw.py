@@ -1,6 +1,7 @@
 """
 Neural Networks Deep Dive - QuickDraw Dataset
 =============================================
+
 Topics covered:
 - Weight initialization (uniform, constant, normal)
 - Gradient and activation visualization
